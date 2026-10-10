@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Evan Azriel and I'm a Student, from Indonesia</h2>
+<h2 align="left">i might be useless</h2>
 
 ###
 
